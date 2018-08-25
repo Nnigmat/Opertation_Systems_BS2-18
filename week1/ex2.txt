@@ -1,0 +1,2742 @@
+    1  exit
+    2  ls
+    3  vim ~/.zshrc
+    4  sudo pacman -S fonts-powerline
+    5  sudo pacman -S powerline-fonts
+    6  vim ~/.zshrc
+    7  zsh
+    8  clear
+    9  neofetch
+   10  vim ~/.zshrc
+   11  zsh
+   12  clera
+   13  clear
+   14  vim ~/.zshrc
+   15  zsh
+   16  clear
+   17  zsh
+   18  vim ~/.zshrc
+   19  zsh
+   20  vim ~/.zshrc
+   21  zsh
+   22  sensors
+   23  clear
+   24  vim
+   25  clear
+   26  vim ~/.zshrc
+   27  zsh
+   28  clear
+   29  sensors
+   30  sudo pacman -Syu
+   31  neofetch
+   32  ls
+   33  clear
+   34  vim
+   35  vim ~/.vimrc
+   36  ls
+   37  vim ~/.vimrc
+   38  ls
+   39  vim ~/.vimrc
+   40  ls
+   41  cd .vim
+   42  ls
+   43  cd bundle
+   44  ;s
+   45  ls
+   46  rm -r Conque-Shell jedi-vim nerdtree python-mode vim-airline vim-jinja vim-surround
+   47  sudo rm -r Conque-Shell jedi-vim nerdtree python-mode vim-airline vim-jinja vim-surround
+   48  sudo rmdir -r Conque-Shell jedi-vim nerdtree python-mode vim-airline vim-jinja vim-surround
+   49  ls
+   50  cd ..
+   51  vim .vimrc
+   52  cd .vim/bundle/Vundle.vim
+   53  l
+   54  rm .
+   55  ls
+   56  rm -r *
+   57  ls
+   58  cd ..
+   59  rm Vundle.vim
+   60  rm -r Vundle.vim
+   61  rmdir -r Vundle.vim
+   62  rmdir Vundle.vim
+   63  rm -rf Vundle.vim
+   64  ls
+   65  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+   66  cd ..
+   67  vim .vimrc
+   68  sensors
+   69  htop
+   70  vim .vimrc
+   71  ls
+   72  clear
+   73  ls
+   74  clear
+   75  cd Code
+   76  ls
+   77  vim test.py
+   78  python test.py
+   79  cd
+   80  ls
+   81  clera
+   82  cler
+   83  clear
+   84  python test.py
+   85  cd Code
+   86  ls
+   87  ./test.py
+   88  python test.py
+   89  clear
+   90  vim test.py
+   91  python test.py
+   92  clear
+   93  vim test.py
+   94  sudo pip install pandas
+   95  vim test.py
+   96  vim ~/.vimrc
+   97  vim test.py
+   98  vim ~/.vimrc
+   99  vim test.py
+  100  vim ~/.vimrc
+  101  vim test.py
+  102  sudo apt-get install python-dev python3-dev
+  103  sudo pacman -S python-dev python3-dev
+  104  ls
+  105  clear
+  106  vim ~/.vimrc
+  107  clear
+  108  vim test.py
+  109  vim ~/.vimrc
+  110  vim test.html
+  111  vim ~/.vimrc
+  112  vim test.html
+  113  vim ~/.vimrc
+  114  vim test.html
+  115  vim test.py
+  116  python test.py
+  117  vim test.py
+  118  python test.py
+  119  vim test.py
+  120  vim ~/.vimrc
+  121  vim test.py
+  122  vim ~/.vimrc
+  123  vim -S ~/.vimrc
+  124  vim -S
+  125  vim ~/.vimrc
+  126  vim test.py
+  127  vim ~/.vimrc
+  128  vim test.py
+  129  sudo   pacman -S the_silver_searcher
+  130  vim test.py
+  131  vim ~/.vimrc
+  132  sensors
+  133  htop
+  134  clear
+  135  vim ~/.vimrc
+  136  git clone https://github.com/Nnigmat/MY
+  137  cd MY
+  138  ls
+  139  cd ..
+  140  cp ~/.vimrc MY
+  141  ls
+  142  cd MY
+  143  ls
+  144  lsl
+  145  ls -al
+  146  git add .
+  147  git commit -m "+ .vimrc config file"
+  148  git config --global user.email "nnigmat@gmail.com"
+  149  git config --global user.name "Nnigmat"
+  150  git commit -m "+ .vimrc config file"
+  151  git push
+  152  cd ..
+  153  sudo pip install jedi
+  154  vim ~/.vimrc
+  155  cd Code
+  156  ls
+  157  vim test.
+  158  vim test.py
+  159  vim ~/.vimrc
+  160  vim test.py
+  161  sudo pip install djanog
+  162  sudo pip install django
+  163  ls
+  164  lsblk
+  165  lsusb
+  166  lspci
+  167  udisks
+  168  udisk
+  169  sudo pacman -S udisks2
+  170  reboot
+  171  lsblk
+  172  cd /dev/sdb
+  173  mount /dev/sdb1 /mnt
+  174  sudo mount /dev/sdb1 /mnt
+  175  cd /mnt
+  176  ls
+  177  sudo mkdir /home/win
+  178  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/ /media/c
+  179  lslbk
+  180  lsblk
+  181  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /media/c
+  182  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /home/win
+  183  ls
+  184  clear
+  185  vim
+  186  cd Code
+  187  yaourt -S godot
+  188  sensors
+  189  yaourt -S godot
+  190  vim ~/.vimrc
+  191  sudo pip install flask
+  192  cd Code
+  193  ls
+  194  vim test.py
+  195  cd ~/Downloads
+  196  ls
+  197  vim Hogwarts.txt
+  198  ls
+  199  clear
+  200  mkdir Videos
+  201  cd Videos
+  202  cd ..
+  203  ls
+  204  vim _E9glDMt714.jpg
+  205  sudo vim _E9glDMt714.jpg
+  206  vim _E9glDMt714.jpg
+  207  sensors
+  208  ls
+  209  cd Code
+  210  ls
+  211  mkdir microblog
+  212  cd microblog
+  213  python -m venv venv
+  214  ls
+  215  cd venv
+  216  ls
+  217  cd ..
+  218  sudo pip install flask
+  219  python
+  220  vim test
+  221  sesnsors
+  222  sensors
+  223  vim test
+  224  ls
+  225  cd ..
+  226  ls
+  227  vim test.py
+  228  sensors
+  229  sudo pacman -S tlp
+  230  systemctl enable tlp
+  231  systemctl enable tlp-sleep.service
+  232  neofetch
+  233  sudo pacman -S thermald
+  234  sudo systemctl enable thermald
+  235  reboot
+  236  sensors
+  237  system-config-printer
+  238  clear
+  239  sensors
+  240  clera
+  241  clear
+  242  ssh root@167.99.210.51
+  243  ls
+  244  cd Code
+  245  ls
+  246  vim Nigma.ovpn
+  247  ls
+  248  pacman -Q networkmanager-openvpn
+  249  openvpn ~/Code/Nigma.ovpn
+  250  sensors
+  251  ssh root@167.99.210.51
+  252  clear
+  253  ls
+  254  clear
+  255  lsblk
+  256  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+  257  ls
+  258  cd /mnt
+  259  ls
+  260  clear
+  261  ls
+  262  cd Downloads
+  263  ls
+  264  sudo mkdir Videos
+  265  ls
+  266  cd Videos
+  267  ls
+  268  clear
+  269  cd ~
+  270  ls
+  271  cd D
+  272  cd Do
+  273  cd Documents
+  274  ls
+  275  cd ..
+  276  cd Downloads
+  277  ls
+  278  cd Videos
+  279  ls
+  280  cd .
+  281  cd ..
+  282  cp -r Videos /mnt/Downloads/Videos
+  283  cp -r Videos /mnt/Downloads
+  284  sudo cp -r Videos /mnt/Downloads
+  285  sensors
+  286  clear
+  287  cd /mnt/Downloads
+  288  ls
+  289  cd Videos
+  290  sl
+  291  ls
+  292  sd /
+  293  cd /
+  294  sudo umount /mnt
+  295  clear
+  296  htop
+  297  sensors
+  298  ls
+  299  clear
+  300  ls
+  301  cd Code
+  302  ls
+  303  mkdir Flask
+  304  cd Flask
+  305  s
+  306  ls
+  307  vim first.py
+  308  python first.py
+  309  flsak
+  310  flask
+  311  flask run first.py
+  312  flask run 
+  313  ls
+  314  vm first.py app.py
+  315  mv first.py app.py
+  316  ls
+  317  flask run
+  318  ls
+  319  cat __pycache__
+  320  cd __pycache__
+  321  ls
+  322  cat app.cpython-36.pyc
+  323  cd ..
+  324  ls
+  325  mkdir first
+  326  mv app.py first
+  327  ls
+  328  cat first
+  329  ls
+  330  cd first
+  331  ls
+  332  cd ..
+  333  mv __pycache__ first
+  334  ls
+  335  sensors
+  336  ls
+  337  clear
+  338  ls
+  339  mkdir flask-tutorial
+  340  ls
+  341  cd flask-tutorial
+  342  ls
+  343  mkdir flaskr
+  344  ls
+  345  cd flaskr
+  346  ls
+  347  vim __init__
+  348  vim __init__.py
+  349  export FLASK_APP=flaskr
+  350  export FLASK_ENV=development
+  351  flask run
+  352  vim flaskr
+  353  vim __init__.py
+  354  cd ..
+  355  export FLASK_APP=flaskr
+  356  export FLASK_ENV=development
+  357  flask run
+  358  \tsudo mount -t ntfs -o nls=utf8,umask=0222 /dev/hdb1 /media/c
+  359  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+  360  ls
+  361  cd /mnt/n
+  362  cd /mnt/
+  363  ls
+  364  cd Downloads
+  365  ls
+  366  cd ..
+  367  ls
+  368  clear
+  369  ls
+  370  cd Backup
+  371  ls
+  372  cd b
+  373  cd backup
+  374  ls
+  375  cd Co
+  376  cd Code
+  377  ls
+  378  s
+  379  clear
+  380  ls
+  381  cd cimg/
+  382  ls
+  383  cim
+  384  cimg
+  385  ./cimg.py
+  386  cd ..
+  387  ls
+  388  cd aseprite
+  389  ls
+  390  cd build
+  391  ls
+  392  cd bin
+  393  l
+  394  sls
+  395  ls
+  396  ./aseprite
+  397  cd ..
+  398  ls
+  399  cd src
+  400  ls
+  401  cd app
+  402  ls
+  403  vim theme.xml.h
+  404  cd ..
+  405  ls
+  406  cd src
+  407  ls
+  408  cd main
+  409  ls
+  410  vim main.cpp
+  411  ls
+  412  cd ..
+  413  ls
+  414  cd a
+  415  cd app
+  416  ls
+  417  vim app.h
+  418  vim app.cpp
+  419  lsl
+  420  cd ..
+  421  cd build
+  422  ls
+  423  cd bin
+  424  ls
+  425  ./aseprite
+  426  sensors
+  427  ./aseprite
+  428  sensors
+  429  ks
+  430  ls
+  431  ./aseprite
+  432  reboot
+  433  sensors
+  434  ls
+  435  reboot
+  436  ls
+  437  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+  438  cd /mnt
+  439  cd Backup
+  440  cd backup
+  441  cd Code
+  442  ls
+  443  cd aseprite
+  444  ls
+  445  cd build
+  446  cd bin
+  447  ls
+  448  ./aseprite
+  449  reboot
+  450  clear
+  451  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+  452  cd /mnt
+  453  ls
+  454  cd Backup
+  455  cd b
+  456  cd backup
+  457  ls
+  458  clear
+  459  ls
+  460  cd Co
+  461  cd Code
+  462  ls
+  463  cd as
+  464  cd aseprite
+  465  ls
+  466  cd build
+  467  ls
+  468  cd bin
+  469  ls
+  470  ./aseprite
+  471  ls
+  472  cd ..
+  473  cp ls
+  474  ls
+  475  cd bin
+  476  ls
+  477  ls ~
+  478  cp aseprite ~/Code
+  479  cd ~/Code
+  480  ls
+  481  cd ..
+  482  ls
+  483  cd Documents
+  484  ls
+  485  cd ..
+  486  rmdir Documents
+  487  ls
+  488  rmdir Music
+  489  rmdir Pictures
+  490  cd Pictures
+  491  s
+  492  ls
+  493  cd ..
+  494  cd Public
+  495  ls
+  496  cd ..
+  497  rmdir Public
+  498  ls
+  499  cd Templates
+  500  ;s
+  501  ls
+  502  cd ..
+  503  rmdir Templates
+  504  ls
+  505  clear
+  506  ls
+  507  cd Desktop
+  508  ls
+  509  cd ..
+  510  l
+  511  ls
+  512  clera
+  513  clear
+  514  ls
+  515  cd /mnt
+  516  ls
+  517  cd Backup
+  518  ls
+  519  cd backup
+  520  ls
+  521  cd Code/ls
+  522  cd Code
+  523  ls
+  524  cd GameDev
+  525  ls
+  526  cd Godot
+  527  ls
+  528  cd .
+  529  cd ..
+  530  ls
+  531  cd print-js
+  532  ls
+  533  vim README.md
+  534  cd ..
+  535  ls
+  536  cd Py
+  537  cd Python
+  538  ls
+  539  cd ..
+  540  ls
+  541  cd C
+  542  ls
+  543  ./a.out
+  544  ./a.out hello
+  545  kl
+  546  vim smth.c
+  547  vim hello_world.c
+  548  ls
+  549  clear
+  550  ls
+  551  cd FirstLab
+  552  ls
+  553  cd ..
+  554  ls
+  555  cd ..
+  556  ls
+  557  cd Processing
+  558  ls
+  559  cd smth
+  560  ls
+  561  cd build
+  562  ls
+  563  clear
+  564  sudo pacman -S processing
+  565  ls
+  566  sudo pip install processing
+  567  sudo pip2 install processing
+  568  sudo python2.7 -pip processing
+  569  python2.7 -h
+  570  sudo python2.7 -m ensurepip --default-pip
+  571  sudo python2.7 -m pip install --upgrade pip setuptools wheel
+  572  sudo python2.7 -m pip install processing
+  573  clear
+  574  ls
+  575  vim try.py
+  576  sudo vim try.py
+  577  python2.7 try.py
+  578  sudo vim try.py
+  579  python2.7 try.py
+  580  sudo vim try.py
+  581  python2.7 try.py
+  582  sudo vim try.py
+  583  python2.7 try.py
+  584  sudo vim try.py
+  585  python2.7 try.py
+  586  sudo vim try.py
+  587  vim smth
+  588  python2.7 try.py >> smth
+  589  sudo python2.7 try.py >> smth
+  590  python2.7 try.py
+  591  vim smth
+  592  sudo vim try.py
+  593  python2.7 try.py
+  594  ipython
+  595  cd ~/Code
+  596  ls
+  597  git clone https://github.com/kazimuth/processing-py-site
+  598  cd processing-py-site
+  599  python2.7 generator.py build --all --images
+  600  sudo python2.7 -m pip install jinja2
+  601  python2.7 generator.py build --all --images
+  602  sudo python2.7 -m pip install lxml.html
+  603  ls
+  604  python generator.py build --all --images
+  605  sudo python2.7 -m pip install lxml.html
+  606  python generator.py build --all --images
+  607  python2.7 generator.py build --all --images
+  608  lw
+  609  ls
+  610  cd data
+  611  ls
+  612  cd ..
+  613  ls
+  614  cd conq
+  615  cd content
+  616  ls
+  617  cd img
+  618  ls
+  619  cd ..
+  620  ls
+  621  cd javascript
+  622  ls
+  623  cd ..
+  624  clear
+  625  lsl
+  626  ls
+  627  cd Reference
+  628  ls
+  629  cd api_en
+  630  l
+  631  ds
+  632  ls
+  633  clear
+  634  ls
+  635  cd ..
+  636  clear
+  637  ls
+  638  cd ..
+  639  ls
+  640  cd ter
+  641  cd template
+  642  ls
+  643  cd ..
+  644  cd Tutorials
+  645  ls
+  646  cd ..
+  647  clea
+  648  clear
+  649  find
+  650  clear
+  651  find *.xml
+  652  find .xml
+  653  find -r .xml
+  654  find -r *.xml
+  655  man find
+  656  find -name *.xml
+  657  find --name *.xml
+  658  xvfb-run python generator.py build --images
+  659  ls
+  660  sudo pip install -r requirements.txt
+  661  python generator.py build --all --images
+  662  python2.7 generator.py build --all --images
+  663  ls
+  664  ls -al
+  665  cd generated
+  666  ls
+  667  signonpluginprocess sens
+  668  sensors
+  669  ls
+  670  clear
+  671  claer
+  672  clear
+  673  term
+  674  ls
+  675  clar
+  676  clear
+  677  ls
+  678  cd Downloads
+  679  ls
+  680  mv processing-3.3.7-linux64.tgz ~/Code
+  681  ls
+  682  cd ~/
+  683  cd Code
+  684  ls
+  685  rm -rf processing-3.3.7
+  686  mv processing-3.3.7-linux64.tgz ~/Code
+  687  ls
+  688  cd processing-
+  689  cd processing-3.3.7
+  690  ls
+  691  ./processing
+  692  ls
+  693  htop
+  694  ls
+  695  clear
+  696  reboot
+  697  ipython
+  698  ls
+  699  cleaer
+  700  clear
+  701  cd Code
+  702  ls
+  703  mkdir Shit
+  704  cd Shit
+  705  ls
+  706  sqlite3 test.db
+  707  ls
+  708  vim smth.py
+  709  python smth.py m
+  710  python smth.py 
+  711  vim smth.py
+  712  python smth.py 
+  713  vim smth.py
+  714  python smth.py 
+  715  vim smth.py
+  716  python smth.py 
+  717  vim smth.py
+  718  python smth.py 
+  719  vim smth.py
+  720  python smth.py 
+  721  vim smth.py
+  722  ls
+  723  clear
+  724  ls
+  725  smth.
+  726  clear
+  727  sensors
+  728  ls
+  729  clear
+  730  ls
+  731  clear
+  732  vim
+  733  python3 -m http.server
+  734  ip a
+  735  python3 -m http.server
+  736  шз ф
+  737  ip a
+  738  sudo python3 -m http.server
+  739  htop
+  740  sudo python3 -m http.server
+  741  clear
+  742  ip a
+  743  neofetch
+  744  python
+  745  ls
+  746  clear
+  747  ls
+  748  clear
+  749  sudo mount -t ntfs -o nls=utf8, umask=0222 /dev/sda5 /mnt
+  750  lsblk
+  751  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+  752  cd /mnt
+  753  ls
+  754  umount /mnt
+  755  sudo umount /mnt
+  756  cd ..
+  757  sudo umount /mnt
+  758  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda4 /mnt
+  759  ls
+  760  cd /mnt
+  761  ls
+  762  cd Users
+  763  ls
+  764  cd nnigm
+  765  ls
+  766  cd ..
+  767  cd Users
+  768  ls
+  769  cd Default
+  770  ls
+  771  cd Desktop
+  772  ls
+  773  cd ..
+  774  cd nnigm
+  775  ls
+  776  cd Desktop
+  777  ls
+  778  sudo pacman -S nitroshare
+  779  yaourt -S nitroshare
+  780  clear
+  781  ls
+  782  yaourt -S nitroshare
+  783  reboot
+  784  ivm
+  785  vim
+  786  ls
+  787  clear
+  788  ls
+  789  ls -al
+  790  cd .vim
+  791  ls
+  792  cd ..
+  793  ls
+  794  ls -al
+  795  vim .vimrc
+  796  ls
+  797  sudo pacman -Sy xfce4 xfce4-goodies
+  798  eboot
+  799  reboot
+  800  sudo pacman -Syu
+  801  ls
+  802  telegram-desktop
+  803  sudo pacman -S telegram-desktop
+  804  ls
+  805  sudo pacman -Rsn telegram-desktop
+  806  yaourt -S telegram-desktop-bin
+  807  sudo pacman -Sy
+  808  sl
+  809  ls
+  810  clear
+  811  ls
+  812  clear
+  813  vim
+  814  sensors
+  815  ls
+  816  cd Code
+  817  ls
+  818  cd Flask
+  819  ls
+  820  mkdir Book
+  821  ls
+  822  cd Book
+  823  clear
+  824  python -m venv venv
+  825  . venv/bin/activate
+  826  ls
+  827  pip install flask
+  828  ls
+  829  clear
+  830  ls
+  831  clear
+  832  vim test.py
+  833  flask test.py
+  834  sudo pacman -S audacity
+  835  sensors
+  836  ды
+  837  ыд
+  838  ды
+  839  sudo pacman -S i3-gaps
+  840  sudo pacman -Syu i3-gaps
+  841  clear
+  842  ls
+  843  clear
+  844  sudo pacman -Syu i3-gaps
+  845  ls
+  846  sudo pacman -S i3-gaps
+  847  ping 8.8.8.8
+  848  sudo ip link set wlpr3s0 up
+  849  sudo ip link set wlp3s0 up
+  850  sudo systemctl enable dhclient@.service
+  851  ls
+  852  ping 8.8.8.8
+  853  systemctl start dhcpcd.service
+  854  ls
+  855  ping 8.8.8.8
+  856  sudo wifi-menu
+  857  sudo ip show
+  858  ip help
+  859  sudo ip link sho
+  860  sudo ip link show
+  861  clear
+  862  sudo pacman -S wifi-menu
+  863  sudo yaourt -S wifi-menu
+  864  sudo pacman -S dialog
+  865  wifi-menu
+  866  ls
+  867  clear
+  868  sudo ip link show
+  869  sudo ip link set wlp3s0 up
+  870  sudo netctl
+  871  netctl
+  872  sudo networkctl
+  873  sudo networkctl start wlp3s0
+  874  mannetworkctl
+  875  man networkctl
+  876  NetworkManager
+  877  sudo NetworkManager
+  878  ls
+  879  sudo iw dev wlp4s0 link
+  880  sudo iw dev wlp3s0 link
+  881  ping 8.8.8.8
+  882  sudo pacman -S i3-gaps
+  883  l
+  884  ls
+  885  clear
+  886  git clone https://github.com/Nnigmat/MY
+  887  cd MY
+  888  ls
+  889  cd Projects
+  890  ls
+  891  cd ImageChanger
+  892  ls
+  893  cd ..
+  894  ls -al
+  895  cd .config
+  896  ls
+  897  cd i3
+  898  ls
+  899  vim config
+  900  ld
+  901  clear
+  902  cd ..
+  903  ls
+  904  mv i3 ~/.config
+  905  ls
+  906  cd ..
+  907  ls
+  908  logout
+  909  rebootr
+  910  reboot
+  911  sudo pacman -S i3status
+  912  man iw
+  913  iw dev connect wlp3s0
+  914  iw dev wlp3s0
+  915  iw dev wlp3s0 connect
+  916  ls
+  917  ip 8.8.8.8
+  918  ping 8.8.8.8
+  919  sudo ip link set wlp3s0 up
+  920  ls
+  921  iw dev wlp3s0 connect
+  922  ping 8.8.8.8
+  923  ls
+  924  clear
+  925  sudo iw dev wlp3s0 linnk
+  926  sudo iw dev wlp3s0 link
+  927  iw dev wlp3s0 link
+  928  iw dev
+  929  ip link show
+  930  clear
+  931  iw dev wlp3s0 link
+  932  iw dev
+  933  iw dev wlp3s0 connect
+  934  iw dev wlp3s0 
+  935  essid
+  936  dhcpcd wlp3s0
+  937  sudo dhcpcd wlp3s0
+  938  reboot
+  939  sudo pacman -S i3status
+  940  sudo pacman -Syu i3status
+  941  ls
+  942  clear
+  943  ping 8.8.8.8
+  944  sudo pacman -Syu i3status
+  945  sudo vim ~/.xinitrc
+  946  sudo pacman -
+  947  sudo pacman -S dmenu
+  948  sudo pacman -S i3lock
+  949  reboot
+  950  ls
+  951  ping 8.8.88
+  952  ping 8.8.8.8
+  953  ls
+  954  clearr
+  955  clear
+  956  sudo pacman -Rsn i3-gaps
+  957  sudo pacman -S i3-gaps
+  958  reboot
+  959  ls
+  960  cd ~/.config
+  961  ls
+  962  rm i3
+  963  rm -rf i3
+  964  ls
+  965  cd ..
+  966  reboot
+  967  sudo ip link set wlp3s0 up
+  968  ls
+  969  sudo systemctl start dhcpcd.service
+  970  sudo dhcpcd start wlp3s0
+  971  ping 8.8.8.8
+  972  vim
+  973  ls
+  974  clear
+  975  ls
+  976  cd MY
+  977  ls
+  978  cd Projects
+  979  ls
+  980  cd ImageChanger
+  981  ls
+  982  cd ..
+  983  cd MY
+  984  ls -al
+  985  cd .com
+  986  cd .config
+  987  ls
+  988  git pull
+  989  reboot
+  990  ls
+  991  cd MY
+  992  ls
+  993  git pull
+  994  ls
+  995  man git
+  996  git log --inline
+  997  git --inline log
+  998  git -log
+  999  git log
+ 1000  git reset HEAD
+ 1001  ls
+ 1002  cd Projects
+ 1003  ls
+ 1004  cd ..
+ 1005  ls
+ 1006  ls -al
+ 1007  cd .config
+ 1008  ls
+ 1009  cd ..
+ 1010  git reset HEAD --hard
+ 1011  ls
+ 1012  cd .config/
+ 1013  ls
+ 1014  cleaer
+ 1015  clear
+ 1016  ls
+ 1017  cd i3
+ 1018  ls
+ 1019  vim config
+ 1020  termite
+ 1021  sudo pacman -
+ 1022  sudo pacman -S termite
+ 1023  ls
+ 1024  clear
+ 1025  termite
+ 1026  vim
+ 1027  vim config
+ 1028  sudo pacman -
+ 1029  sudo pacman -S rofi
+ 1030  vim config
+ 1031  sudo pacman -S compton
+ 1032  compton
+ 1033  ls
+ 1034  cd MY
+ 1035  ls
+ 1036  ls -al
+ 1037  cp -r .config/i3 ~/.config/
+ 1038  ls
+ 1039  clera
+ 1040  clear
+ 1041  reboot
+ 1042  ls
+ 1043  clear
+ 1044  cd ..
+ 1045  ls
+ 1046  cat ~/.config/i3
+ 1047  cat ~/.config/i3/config
+ 1048  vim ~/.config/i3/config
+ 1049  ls
+ 1050  cd ~/.config
+ 1051  ls
+ 1052  ls -al
+ 1053  vim ~/.Xresources
+ 1054  vim ~/.config/?S
+ 1055  ls
+ 1056  куищщн
+ 1057  reboot
+ 1058  ls
+ 1059  clear
+ 1060  ls
+ 1061  clear
+ 1062  sudo ip link set wlp3s0 up
+ 1063  ls
+ 1064  sudo iw dev
+ 1065  man iw dev 
+ 1066  man iw dev wlp3s0 connect
+ 1067  sudo iw dev wlp3s0 connect
+ 1068  ls
+ 1069  vim ~/.Xresources
+ 1070  reboot
+ 1071  ls
+ 1072  clear
+ 1073  vim
+ 1074  ls
+ 1075  clear
+ 1076  ls
+ 1077  clear
+ 1078  vim .config/i3/config
+ 1079  ls
+ 1080  clear
+ 1081  vim .config/i3/config
+ 1082  sudo pacman -S polybar
+ 1083  sudo wifi-menu
+ 1084  ls
+ 1085  clear
+ 1086  sudo ip link show
+ 1087  sudo dhcpcd  start wlp3s0
+ 1088  ls
+ 1089  clear
+ 1090  man dhcpcd
+ 1091  l
+ 1092  clear
+ 1093  l
+ 1094  cleaer
+ 1095  claer
+ 1096  clear
+ 1097  sudo iw dev
+ 1098  sudo iw dev wlp3s0
+ 1099  sudo iw dev
+ 1100  ping
+ 1101  ping 8.8.8.8
+ 1102  reboot
+ 1103  sensors
+ 1104  ls
+ 1105  clear
+ 1106  ls
+ 1107  clear
+ 1108  sudo pacman -Syu
+ 1109  yaourt -Syu
+ 1110  ls
+ 1111  clear
+ 1112  ls
+ 1113  cd Code
+ 1114  sl
+ 1115  ls
+ 1116  clar
+ 1117  clear
+ 1118  ls
+ 1119  vim test.py
+ 1120  flask test.
+ 1121  flask test.py
+ 1122  flask -s test.py
+ 1123  export FLASK_APP=test.py
+ 1124  flaskrun
+ 1125  flask run
+ 1126  vim test.py
+ 1127  flask run
+ 1128  vim test.py
+ 1129  flask run
+ 1130  vim test.py
+ 1131  flask run
+ 1132  vim test.py
+ 1133  flask run
+ 1134  vim test.py
+ 1135  flask run
+ 1136  htop
+ 1137  flask run
+ 1138  ls
+ 1139  vimtutor [ru]
+ 1140  vimrutor [ru]
+ 1141  sudo pacman -S vimtutor
+ 1142  sudo pacman -S vim-enhanced
+ 1143  vimrutor [ru]
+ 1144  vimrutor 
+ 1145  vim tutor
+ 1146  man vim
+ 1147  sudo pacman -S gvim
+ 1148  sudo pacman -S vim
+ 1149  vimtutor
+ 1150  reboot
+ 1151  sudo pacman -Syi
+ 1152  sudo pacman -Syu
+ 1153  cd Downloads/
+ 1154  ls
+ 1155  cldar
+ 1156  cleasr
+ 1157  clera
+ 1158  clear
+ 1159  find 
+ 1160  clear
+ 1161  find *.pdf
+ 1162  *.pdf
+ 1163  vim Plan\ of\ the\ day.pdf
+ 1164  sudo pip install PyPDF2
+ 1165  ls
+ 1166  clear
+ 1167  ipython
+ 1168  ipython2
+ 1169  sudo pacman -S ipython2
+ 1170  clear
+ 1171  ipython2
+ 1172  ipython3
+ 1173  ls
+ 1174  clar
+ 1175  clear
+ 1176  ipython
+ 1177  clear
+ 1178  python2
+ 1179  sudo pacman -S skype
+ 1180  sudo pacman -S skypeforlinux-stable-bin 
+ 1181  yaourt -S skypeforlinux-stable-bin 
+ 1182  vim
+ 1183  clear
+ 1184  cd Downloads/
+ 1185  python2
+ 1186  reboot
+ 1187  sensors
+ 1188  sudo pip install requests
+ 1189  vim
+ 1190  ipython
+ 1191  2to3
+ 1192  sensors
+ 1193  clear
+ 1194  sensors
+ 1195  rebooot
+ 1196  reboot
+ 1197  ^[[200~sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/hdb1 /media/c~
+ 1198  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/hdb1 /media/c
+ 1199  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+ 1200  sensors
+ 1201  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+ 1202  ls /mnt
+ 1203  cd /mnt
+ 1204  ls
+ 1205  clear
+ 1206  lsblk
+ 1207  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+ 1208  la
+ 1209  s
+ 1210  ls[
+ 1211  clear
+ 1212  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/hdb1 /media/c
+ 1213  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+ 1214  clear
+ 1215  reboot
+ 1216  sensors
+ 1217  sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda5 /mnt
+ 1218  sensors
+ 1219  sesnrso
+ 1220  sensors
+ 1221  clear
+ 1222  ipython
+ 1223  sensors
+ 1224  vim
+ 1225  clear
+ 1226  ls -al
+ 1227  clear
+ 1228  man i3
+ 1229  vim ~/.i3/config
+ 1230  man i3
+ 1231  ls
+ 1232  ls -a;
+ 1233  ls -al
+ 1234  vim .config/i3/config
+ 1235  sensors
+ 1236  vim .config/i3/config
+ 1237  sensors
+ 1238  clear
+ 1239  vim
+ 1240  SSS
+ 1241  vim .config/i3/config
+ 1242  polybar
+ 1243  sudo pacman -S polybar
+ 1244  sudo wifi-menu
+ 1245  wifi-menu
+ 1246  sudo wifi-menu
+ 1247  dhcpcd start 
+ 1248  sudo dhcpcd start 
+ 1249  sudo dhcpcd start wlp3s0
+ 1250  sudo ip link set wlp3s0 up
+ 1251  sudo dhcpcd start wlp3s0
+ 1252  ping 8.8.8.8
+ 1253  sudo dhcpcd enable wlp3s0
+ 1254  sudo systemctl enable dhcpcd.service
+ 1255  ping 8.8.8.8
+ 1256  sudo ip link show
+ 1257  man dhcpcd
+ 1258  ping -c 3 ya.ru
+ 1259  ping ya.ru
+ 1260  ping 8.8.8.8
+ 1261  lspci -v
+ 1262  clear
+ 1263  sudo dhcpcd wlp3s90
+ 1264  sudo dhcpcd wlp3s0
+ 1265  suso systemctl
+ 1266  sudo systemctl start dhcpcd.service
+ 1267  clear
+ 1268  ping 7.7.7.7
+ 1269  ping 8.8.8.8
+ 1270  clear
+ 1271  sudo systemctl enable dhcpcd@.service
+ 1272  ping 8.8.8.8
+ 1273  clear
+ 1274  reboot
+ 1275  ping 8.8.8.8
+ 1276  wifi
+ 1277  reboot
+ 1278  sensors
+ 1279  reboot
+ 1280  sudo systemctl disable dhclient@.service
+ 1281  cleaer
+ 1282  clear
+ 1283  vim
+ 1284  clear
+ 1285  cd Ci
+ 1286  cd Code
+ 1287  ls
+ 1288  cd Flask
+ 1289  ls
+ 1290  cd first
+ 1291  ls
+ 1292  clear
+ 1293  cd ..
+ 1294  mkdir test
+ 1295  cd test
+ 1296  clear
+ 1297  python -m venv venv
+ 1298  ls
+ 1299  cd venv
+ 1300  ls
+ 1301  cd ..
+ 1302  cd venv
+ 1303  ks
+ 1304  ls
+ 1305  cd bin
+ 1306  ls
+ 1307  ./activate
+ 1308  sudo ./activate
+ 1309  cd ..
+ 1310  ls
+ 1311  cd ..
+ 1312  clear
+ 1313  pip install flask
+ 1314  sudo pip install flask
+ 1315  cd ..
+ 1316  rm -rf test
+ 1317  mkdir test
+ 1318  cd test
+ 1319  python -m venv venv
+ 1320  ipython
+ 1321  clear
+ 1322  vim test.p
+ 1323  vim test.py
+ 1324  python test.py
+ 1325  python3
+ 1326  python
+ 1327  clera
+ 1328  clear
+ 1329  ls
+ 1330  cd vn=e
+ 1331  cd venv
+ 1332  clear
+ 1333  ls
+ 1334  cd ..
+ 1335  sensors
+ 1336  cd venv
+ 1337  ls
+ 1338  cd lib
+ 1339  ls
+ 1340  cd python3.6
+ 1341  ls
+ 1342  cd site-packages
+ 1343  ls
+ 1344  cd ..
+ 1345  clear
+ 1346  source venv/bin/activate
+ 1347  python test.py
+ 1348  sudo pip install flask
+ 1349  python test.py
+ 1350  deactivate
+ 1351  source venv/bin/activate
+ 1352  disable
+ 1353  deactivate
+ 1354  cd ..
+ 1355  rm -rf test
+ 1356  sudo rm -rf test
+ 1357  ,s
+ 1358  ls
+ 1359  clear
+ 1360  mkdir FullGuideOfFlask
+ 1361  cd FullGuideOfFlask
+ 1362  mkdir Chapter1
+ 1363  clear
+ 1364  cd Chapter1
+ 1365  python -m venv vevn
+ 1366  rm -rf vevn
+ 1367  python -m venv venv
+ 1368  source venv/bin/activate
+ 1369  clear
+ 1370  pip install flask
+ 1371  ipython
+ 1372  clear
+ 1373  vim test.py
+ 1374  python test.py
+ 1375  rm test.py
+ 1376  clear
+ 1377  mkfir app
+ 1378  mkdir app
+ 1379  cd app
+ 1380  vim __init__.pt
+ 1381  ls
+ 1382  vim __init__.py
+ 1383  deactivate
+ 1384  sudo pip install dbus
+ 1385  sudo pip install dbus=python
+ 1386  sudo pip install dbus-python
+ 1387  clear
+ 1388  sensors
+ 1389  cd ..
+ 1390  clear
+ 1391  source venv/bin/activate
+ 1392  clear
+ 1393  cd app
+ 1394  ld
+ 1395  ls
+ 1396  vim routes.py
+ 1397  cd ..
+ 1398  vim main.py
+ 1399  export FLASK_APP=main.pt
+ 1400  export FLASK_APP=main.py
+ 1401  flask
+ 1402  flask ru
+ 1403  flask run
+ 1404  clear
+ 1405  flask run
+ 1406  clear
+ 1407  cd app
+ 1408  mkdir templates
+ 1409  cd templates
+ 1410  vim index.html
+ 1411  cd ..
+ 1412  vim routes.py
+ 1413  cd ..
+ 1414  flask
+ 1415  flask run
+ 1416  clear
+ 1417  vim routes.py
+ 1418  cd app
+ 1419  clear
+ 1420  ls
+ 1421  vim routes.py
+ 1422  cd templates
+ 1423  ls
+ 1424  mv index.html base.html
+ 1425  ls
+ 1426  vim base.html
+ 1427  vim index.html
+ 1428  cd ..
+ 1429  vim routes.py
+ 1430  flask run
+ 1431  cd ..
+ 1432  flask run
+ 1433  pip install flask-wtf
+ 1434  sensors
+ 1435  clear
+ 1436  ls
+ 1437  cd app
+ 1438  vim config.py
+ 1439  vim forms.py
+ 1440  cd templates
+ 1441  vim login.html
+ 1442  flask ru
+ 1443  flask run
+ 1444  cd ..
+ 1445  cd .. 
+ 1446  flask run
+ 1447  clear
+ 1448  flask run
+ 1449  cd app
+ 1450  ls
+ 1451  vim __init__.py
+ 1452  cd ..
+ 1453  flask run
+ 1454  cd app
+ 1455  ls
+ 1456  vim __init__.py
+ 1457  cd ..
+ 1458  flask run
+ 1459  cd app
+ 1460  clear
+ 1461  ls
+ 1462  vim __init__.py
+ 1463  cd ..
+ 1464  flask run
+ 1465  cd app
+ 1466  ls
+ 1467  vim routes.py
+ 1468  cd ..
+ 1469  flask run
+ 1470  cd app
+ 1471  vim routes.py
+ 1472  cd ..
+ 1473  flask run
+ 1474  cd app
+ 1475  vim routes.py
+ 1476  cd ..
+ 1477  flask run
+ 1478  cd app
+ 1479  ls
+ 1480  cd templates
+ 1481  vim base.html
+ 1482  cd ..
+ 1483  flask run
+ 1484  cd app
+ 1485  ls
+ 1486  vim routes.py
+ 1487  cd ..
+ 1488  flask run
+ 1489  cd app
+ 1490  vim routes.py
+ 1491  cd ..
+ 1492  flask run
+ 1493  sudo pip install flask-sqlalchemy
+ 1494  sudo pip install flask-migrate
+ 1495  sudo systemctl disable dhcpcd
+ 1496  sudo systemctl disable dhcpcd@.service 
+ 1497  reboot
+ 1498  sudo pacman -Syu
+ 1499  sensors
+ 1500  ls
+ 1501  cd Code
+ 1502  ls
+ 1503  cd Flask
+ 1504  ls
+ 1505  cd FullGuideOfFlask
+ 1506  ls
+ 1507  cd Chapter1
+ 1508  ls
+ 1509  vim main.py
+ 1510  clear
+ 1511  сдуфк
+ 1512  clear
+ 1513  cd Code/Flask/
+ 1514  mkdir blog
+ 1515  cd blog
+ 1516  python -m venv venv
+ 1517  source venv/bin/activate
+ 1518  clear
+ 1519  sudo pip install flask
+ 1520  clear
+ 1521  mkdir app
+ 1522  cd app
+ 1523  vim __init__.py
+ 1524  vim __routes__.py
+ 1525  cd ..
+ 1526  cd app
+ 1527  mv __routes__.py routes.py
+ 1528  cd ..
+ 1529  export FLASK_APP=main.py
+ 1530  vim main.py
+ 1531  flask run
+ 1532  cd app
+ 1533  vim routes.py
+ 1534  cd app
+ 1535  cd ..
+ 1536  flask ru
+ 1537  flask run
+ 1538  export FLASK_ENV=development
+ 1539  flask ru
+ 1540  flask run
+ 1541  cd Code/Flask/blog
+ 1542  ls
+ 1543  clear
+ 1544  cd app
+ 1545  ls
+ 1546  clear
+ 1547  vim routes.py
+ 1548  mkdir templates
+ 1549  cd templates
+ 1550  vim base.html
+ 1551  cd ..
+ 1552  vim routes.py
+ 1553  cd templates
+ 1554  vim index.html
+ 1555  sensors
+ 1556  yaourt -Syu
+ 1557  clear
+ 1558  ps
+ 1559  fork
+ 1560  sort
+ 1561  sensors
+ 1562  ipython
+ 1563  cd ..
+ 1564  ls
+ 1565  mkdir Python
+ 1566  cd Python
+ 1567  mkdir DownloadFrom
+ 1568  cd DownloadFrom
+ 1569  mkdir Youtube.com
+ 1570  cd Youtube.com
+ 1571  ls
+ 1572  clear
+ 1573  vim main.py
+ 1574  sudo pip install pytube
+ 1575  vim m
+ 1576  vim main.py
+ 1577  python main.py
+ 1578  vim main.py
+ 1579  python main.py
+ 1580  htop
+ 1581  clear
+ 1582  claer
+ 1583  clear
+ 1584  vim main.py
+ 1585  ipython
+ 1586  sensors
+ 1587  ipython
+ 1588  sudo pip install --upgrade google-api-python-client
+ 1589  ipython
+ 1590  sudo pip install oauth2client
+ 1591  ipython
+ 1592  clear
+ 1593  htop
+ 1594  ls
+ 1595  cd ..
+ 1596  cd Python
+ 1597  git clone https://github.com/CodeMaxx/SyncYoutube
+ 1598  cd SyncYoutube
+ 1599  ls
+ 1600  vim SyncYoutube.py
+ 1601  python SyncYoutube.py
+ 1602  sudo pip install simplejson
+ 1603  python SyncYoutube.py
+ 1604  vim SyncYoutube.py
+ 1605  clear
+ 1606  python SyncYoutube.py https://www.youtube.com/channel/UCd7tFMcKGcHBekQMKc21ewA\?view_as\=subscriber
+ 1607  python SyncYoutube.py https://www.youtube.com/channel/UCd7tFMcKGcHBekQMKc21ewA\\n
+ 1608  python SyncYoutube.py https://www.youtube.com/channel/UCd7tFMcKGcHBekQMKc21ewA\n
+ 1609  vim SyncYoutube.py
+ 1610  python SyncYoutube.py https://www.youtube.com/channel/UCd7tFMcKGcHBekQMKc21ewA\n
+ 1611  vim SyncYoutube.py
+ 1612  ipython
+ 1613  vim SyncYoutube.py
+ 1614  sensors
+ 1615  ls
+ 1616  clear
+ 1617  ping
+ 1618  cat /etc/hostname
+ 1619  lspci -v
+ 1620  ip link
+ 1621  ip link show dev wlp3s0
+ 1622  wifi-menu
+ 1623  sudo pacman -S wifi-menu
+ 1624  systemctl stop NetworkManager.service
+ 1625  wifi-menu
+ 1626  systemctl
+ 1627  sudo pacman -S dialog
+ 1628  wifi-menu
+ 1629  sudo pacman -S netctl
+ 1630  wifi-menu
+ 1631  sudo wifi-menu
+ 1632  36024391
+ 1633  cd ..
+ 1634  ls
+ 1635  vim pass
+ 1636  ls
+ 1637  ping 8.8.8.8
+ 1638  sudo wifi-menj
+ 1639  sudo wifi-menu
+ 1640  sudo ip link set wlp3s0 down
+ 1641  sudo wifi-menu
+ 1642  clear
+ 1643  systemctl stop NetworkManager.service
+ 1644  sudo wifi-menu
+ 1645  clear
+ 1646  systemctl disable NetworkManager.service
+ 1647  sudo pacman -S wpa_actiond
+ 1648  netctl enable wlp3s0-TP-LINK_1DBE
+ 1649  sudo netctl enable wlp3s0-TP-LINK_1DBE
+ 1650  cd /etc/net
+ 1651  cd /etc/netctl
+ 1652  ls
+ 1653  vim wlp3s0-TP-LINK_1DBE
+ 1654  sudo vim wlp3s0-TP-LINK_1DBE
+ 1655  systemctl enable netctl-auto@.service
+ 1656  vim ~/.config/i3/config
+ 1657  cd ~/Code/M
+ 1658  cd ~/Code/MY
+ 1659  ls
+ 1660  cd Projects
+ 1661  ls
+ 1662  cd ImageChanger
+ 1663  ls
+ 1664  cd ..
+ 1665  ls
+ 1666  clear
+ 1667  vim ~/.Xresources
+ 1668  vim ~/.config/i3/config
+ 1669  sensors
+ 1670  cp /etc/xdg/termite/config ~/.config/termite/config
+ 1671  mkdir ~/.config/termite
+ 1672  cp /etc/xdg/termite/config ~/.config/termite/config
+ 1673  vim ~/.config/termite
+ 1674  vim ~/.config/termite/config
+ 1675  reboot
+ 1676  clear
+ 1677  vim ~/.Xresources
+ 1678  systemctl disable netctl@wlp3s0\\x2dTP\\x2dLINK_1DBE.service
+ 1679  systemctl disable netctl-auto@.service
+ 1680  clear
+ 1681  sudo netctl disable wlp3s0-TP-LINK_1DBE
+ 1682  reboot
+ 1683  sudo wifi-menu
+ 1684  sudo ip link set wlp3s0 down
+ 1685  sudo wifi-menu
+ 1686  systemctl stop avahi-daemon.service NetworkManager.service
+ 1687  sudo wifi-menu
+ 1688  vim ~/.Xresources
+ 1689  clear
+ 1690  sudo pacman -S xf86-input-synaptics
+ 1691  man synaptics
+ 1692  vim /usr/share/X11/xorg.conf.d/50-synaptics.conf
+ 1693  sudo vim /usr/share/X11/xorg.conf.d/50-synaptics.conf
+ 1694  reboot
+ 1695  vim ~/.config/termite/config
+ 1696  clear
+ 1697  systemctl stop NetworkManager.service
+ 1698  sudo wifi-menu
+ 1699  sudo -Rsn networkmanager
+ 1700  sudo pacman -Rsn networkmanager
+ 1701  sudo pacman -Rsn networkmanager-qt
+ 1702  clear
+ 1703  reboo
+ 1704  reboot
+ 1705  sudo ip link set wlp3s0 down
+ 1706  systemctl stop NetworkManager.service
+ 1707  sudo wifi-menu
+ 1708  vim ~/.config/i3/config
+ 1709  xbacklight
+ 1710  sudo pacman -S xbacklight
+ 1711  \tsudo pacman -S xorg-xbacklight
+ 1712  vim .config/i3/config
+ 1713  sudo pacman -S polybar
+ 1714  vim .config/i3/config
+ 1715  vim /etc/X11/xorg.conf.d/00-keyboard.conf
+ 1716  man synaptics
+ 1717  sensors
+ 1718  cd Code
+ 1719  ls
+ 1720  ./aseprite
+ 1721  clear
+ 1722  cleawr
+ 1723  clear
+ 1724  ls
+ 1725  ./aseprite
+ 1726  clear
+ 1727  git clone https://github.com/aseprite/aseprite
+ 1728  ls
+ 1729  rm aseprite
+ 1730  git clone https://github.com/aseprite/aseprite
+ 1731  ls
+ 1732  rm -rf aseprite
+ 1733  git clone https://github.com/aseprite/aseprite
+ 1734  cd aseprite
+ 1735  ls
+ 1736  make
+ 1737  configure-printer
+ 1738  clear
+ 1739  ls
+ 1740  install
+ 1741  cake
+ 1742  cmake
+ 1743  cmake install
+ 1744  make install
+ 1745  clear
+ 1746  ls
+ 1747  cat INSTALL.md
+ 1748  git pull
+ 1749  git submodule update --init --recursive
+ 1750  sensors
+ 1751  polybar
+ 1752  polybar example
+ 1753  cd MY/
+ 1754  ls
+ 1755  cd Projects
+ 1756  ls
+ 1757  cd ..
+ 1758  cd..
+ 1759  git pull
+ 1760  ls -al
+ 1761  cd .
+ 1762  cd .config/
+ 1763  ls
+ 1764  cp polybar ~/.config
+ 1765  cp -r polybar ~/.config
+ 1766  cd ~/.config
+ 1767  ls
+ 1768  cd polybar
+ 1769  ls
+ 1770  cd ..
+ 1771  polybar
+ 1772  polybar example
+ 1773  clear
+ 1774  htop
+ 1775  vim .config/i3/config
+ 1776  cat INSTALL.md
+ 1777  mkdir build
+ 1778  cd build
+ 1779  cat ../INSTALL.md
+ 1780  cmake -G Ninja ..
+ 1781  cmake -DCMAKE_INSTALL_PREFIX=~/software -G Ninja ..\n
+ 1782  sudo pacman -S g++ libx11-dev libxcursor-dev cmake ninja-build\n
+ 1783  sudo pacman -S gcc libx11 libxcursor cmake ninja-build\n
+ 1784  cmake -DCMAKE_INSTALL_PREFIX=~/software -G Ninja ..\n
+ 1785  configure-printer
+ 1786  cd ...
+ 1787  cd aseprite
+ 1788  ls
+ 1789  cat INSTALL.md
+ 1790  sudo pacman -S gcc libx11 libxcursor cmake ninja\n
+ 1791  cd build
+ 1792  cmake -G Ninja .. 
+ 1793  sensors
+ 1794  clear
+ 1795  sensors
+ 1796  ls
+ 1797  cd bin
+ 1798  ls
+ 1799  ls -al
+ 1800  cd ..
+ 1801  ls
+ 1802  ninja aseprite
+ 1803  sensors
+ 1804  clear
+ 1805  sensors
+ 1806  clear
+ 1807  sensors
+ 1808  clear
+ 1809  sensors
+ 1810  ls
+ 1811  cd bin
+ 1812  ls
+ 1813  ./aseprite
+ 1814  term
+ 1815  cd Code/aseprite
+ 1816  ls
+ 1817  cd bi
+ 1818  cd build
+ 1819  ls
+ 1820  cd bin
+ 1821  ls
+ 1822  cd ..
+ 1823  cp -r bin ~/Aseprite
+ 1824  cd ~/
+ 1825  cd Aseprite
+ 1826  ls
+ 1827  ./aseprite
+ 1828  cd Aseprite
+ 1829  ./aseprite&
+ 1830  cd Aseprite
+ 1831  ./aseprite &
+ 1832  cd Aseprite
+ 1833  ./aseprite &
+ 1834  clera
+ 1835  cd ..
+ 1836  l
+ 1837  ls
+ 1838  cd Downloads
+ 1839  ls
+ 1840  cd Telegram\ Desktop
+ 1841  ls
+ 1842  cd ..
+ 1843  ls
+ 1844  ls -al
+ 1845  clear
+ 1846  neofetch
+ 1847  ls
+ 1848  mv wallhaven-636345_3840x2160.png wallpaper.png
+ 1849  mv wallpaper.png ~/.config/i3
+ 1850  cd ~/.config/i3
+ 1851  l
+ 1852  la
+ 1853  vim config
+ 1854  cd ~
+ 1855  cd MY/Projects/ImageChanger/
+ 1856  ls
+ 1857  vim image_changer.py
+ 1858  cd ~/.config/i3
+ 1859  vim config
+ 1860  feh
+ 1861  fex
+ 1862  sudo pacman -S feh
+ 1863  man feh
+ 1864  sudo pacman -S fex
+ 1865  vim config
+ 1866  vim ~/.config/i3/config
+ 1867  reboot
+ 1868  compton
+ 1869  clear
+ 1870  vim ~/.config/i3/config
+ 1871  vim ~/.config/termite/config
+ 1872  clear
+ 1873  vim
+ 1874  sudo ip link set wlp3s0 down
+ 1875  sudo systemctl stop NetworkManager.service 
+ 1876  sudo wifi-menu
+ 1877  sensors
+ 1878  vim
+ 1879  vim ~/.vimrc
+ 1880  cd Code/
+ 1881  ls
+ 1882  cd Flask
+ 1883  l
+ 1884  ls
+ 1885  cd blog
+ 1886  ls
+ 1887  vim main.py
+ 1888  vim ~/.vimrc
+ 1889  vim main.py
+ 1890  cd app
+ 1891  ls
+ 1892  vim __init__.py
+ 1893  vim routes.py
+ 1894  clear
+ 1895  vim routes.py
+ 1896  vim ~/.vimrc
+ 1897  sudo pacman -S ctags
+ 1898  vim ~/.vimrc
+ 1899  vim ~/.vim/bundle/Alduin/colors/alduin.vim
+ 1900  htop
+ 1901  clear
+ 1902  vim ~/.vim/bundle/Alduin/colors/alduin.vim
+ 1903  cd Code/Flask/blog/app/t
+ 1904  cd Code/Flask/blog/app/
+ 1905  ls
+ 1906  vim routes.py
+ 1907  vim ~/.vim/bundle/Alduin/colors/alduin.vim
+ 1908  vim ~/.vimrc
+ 1909  vim ~/.config/i3/config
+ 1910  vim
+ 1911  ls
+ 1912  cd Code
+ 1913  ls
+ 1914  cd Flask
+ 1915  ls
+ 1916  cd blog
+ 1917  ls
+ 1918  vim app/routes.py
+ 1919  vim ~/.config/i3/config
+ 1920  vim app/routes.py
+ 1921  vim ~/.config/i3/config
+ 1922  bim
+ 1923  vim
+ 1924  ls
+ 1925  clear
+ 1926  vim ~/.config/i3/config
+ 1927  vim ~/.config/polybar/config
+ 1928  htop
+ 1929  clear
+ 1930  polybar example
+ 1931  clear
+ 1932  clea
+ 1933  clear
+ 1934  vim ~/.config/polybar/config
+ 1935  htop
+ 1936  polybar example
+ 1937  vim ~/.config/polybar/config
+ 1938  polybar example
+ 1939  htop
+ 1940  vim ~/.config/polybar/config
+ 1941  polybar example
+ 1942  vim ~/.config/polybar/config
+ 1943  htop
+ 1944  vim ~/.config/polybar/config
+ 1945  polybar example
+ 1946  vim ~/.config/polybar/config
+ 1947  htop
+ 1948  vim ~/.config/polybar/config
+ 1949  polybar example
+ 1950  clear
+ 1951  vim ~/.config/polybar/config
+ 1952  htop
+ 1953  polybar example
+ 1954  vim ~/.config/polybar/config
+ 1955  polybar example
+ 1956  vim ~/.config/polybar/config
+ 1957  polybar example
+ 1958  sudo pacman -S hydrogen
+ 1959  clear
+ 1960  polybar example &
+ 1961  reboot
+ 1962  vim ~/.config/i3/config
+ 1963  reboot
+ 1964  ls
+ 1965  vim ~/.config/i3/config
+ 1966  reboot
+ 1967  ls
+ 1968  vim ~/.config/i3/config
+ 1969  shutdown
+ 1970  date
+ 1971  clear
+ 1972  date
+ 1973  vim ~/.config/i3/config
+ 1974  setxkbmap --model pc105 -layout us,ru -option grp:alt_shift_toggle
+ 1975  setxkbmap -model pc105 -layout us,ru -option grp:alt_shift_toggle
+ 1976  vim ~/.config/i3/config
+ 1977  clear
+ 1978  reboot
+ 1979  sudo ip link set wlp3s0 down
+ 1980  vim ~/.config/i3/config
+ 1981  sudo systemctl stop NetworkManager.service
+ 1982  sudo wifi-menu
+ 1983  sudo pacman -S telegram
+ 1984  sudo pacman -S telegram-desktop
+ 1985  sensors
+ 1986  mv ~/.vimrc ~/Code/MY/.vimrc
+ 1987  cd ~/Code/MY
+ 1988  ls
+ 1989  ls -al
+ 1990  cd .config
+ 1991  ls
+ 1992  ls -al
+ 1993  cd ..
+ 1994  ls
+ 1995  ls -al
+ 1996  vim .vimrc
+ 1997  cp .vimrc ~/
+ 1998  ls
+ 1999  vim .vimrc
+ 2000  git add .
+ 2001  git commit -m "Updated vimrc"
+ 2002  git push
+ 2003  vim .vimrc
+ 2004  vim ~/.config/i3/config
+ 2005  clear
+ 2006  sensors
+ 2007  date
+ 2008  clear
+ 2009  sudo ip link show
+ 2010  systemctl stop NetworkManager.service
+ 2011  clear
+ 2012  sudo wifi-menu
+ 2013  clear
+ 2014  htop
+ 2015  neofetch
+ 2016  ls
+ 2017  clear
+ 2018  cd Downloads
+ 2019  lsl
+ 2020  ls
+ 2021  ./Scott\ Robertson,\ Thomas\ Bertling,\ Scott\ Robertson-How\ to\ Draw_\ drawing\ and\ sketching\ objects\ and\ environments\ from\ your\ imagination-Design\ Studio\ Press\ \(2013\).pdf.crdownload
+ 2022  Scott\ Robertson,\ Thomas\ Bertling,\ Scott\ Robertson-How\ to\ Draw_\ drawing\ and\ sketching\ objects\ and\ environments\ from\ your\ imagination-Design\ Studio\ Press\ \(2013\).pdf.crdownload
+ 2023  sensors
+ 2024  yaourt -S godot
+ 2025  sensors
+ 2026  htop
+ 2027  sensors
+ 2028  cd Code
+ 2029  ls
+ 2030  cd Godot
+ 2031  ls
+ 2032  git clone https://github.com/jedStevens/water2D
+ 2033  htop
+ 2034  reboog
+ 2035  reboot
+ 2036  sudo systemctl stop NetworkManager.service
+ 2037  sudo wifi-menu
+ 2038  sensors
+ 2039  ipython
+ 2040  clear
+ 2041  sudo pip install peewee
+ 2042  sudo pip install flask-peewee
+ 2043  clear
+ 2044  ipython
+ 2045  clear
+ 2046  ipython
+ 2047  xbacklight -inc 10
+ 2048  sudo pip install beautifulsoup4
+ 2049  clear
+ 2050  ipython
+ 2051  sudo systemctl stop NetworkManager.service
+ 2052  clear
+ 2053  sudo wifi-menu
+ 2054  clear
+ 2055  sensors
+ 2056  clear
+ 2057  sensors
+ 2058  sudo pacman -S sqlitebrowser
+ 2059  sensors
+ 2060  vim
+ 2061  clear
+ 2062  setxkbmap -option caps:swapescape
+ 2063  setxkbmap -option caps:deactivate
+ 2064  vim
+ 2065  vim ~/.config/i3/config
+ 2066  setxkbmap -option caps:escape
+ 2067  vim ~/.config/i3/config
+ 2068  clear
+ 2069  ??????clear????????????????????clear
+ 2070  .
+ 2071  .\n.\n..вдвлдаподловфдлоадыфлодлаоыфдлоыавдфлодлаоясс
+ 2072  clear
+ 2073  vim ~/.config/i3/config
+ 2074  setxkbmap -option caps:switchescape
+ 2075  vim ~/.config/i3/config
+ 2076  setxkbmap -option caps:swapescape
+ 2077  kjолололkjkjkjлололо?ололоkjkjkj?оло?j
+ 2078  cleawr
+ 2079  clera
+ 2080  clear
+ 2081  sudo systemctl stop NetworkManager.service 
+ 2082  clear
+ 2083  sudo wifi-mewnu
+ 2084  sudo wifi-menu
+ 2085  clear
+ 2086  vim .xinitrc
+ 2087  vim ~/.config/i3/config
+ 2088  vim
+ 2089  sensors
+ 2090  while\ntrue\nsensors\n\nend
+ 2091  clear
+ 2092  man while
+ 2093  while 1==1 sensors\n\nstart\n\nexit
+ 2094  clear
+ 2095  man while
+ 2096  vim ~/Downloads/Scott\ Robertson,\ Thomas\ Bertling,\ Scott\ Robertson-How\ to\ Draw_\ drawing\ and\ sketching\ objects\ and\ en
+ 2097  vim ~/Downloads/dotr1jnBEeirWBJEBbG4Hg_774f09a039c111e88d9d77a1dc9cd80f_Script_Create_Tables.sql
+ 2098  vim --version
+ 2099  has('clipboard')
+ 2100  sudo pacman -S gvim
+ 2101  cp ~/.vimrc .backup_vimrc
+ 2102  sudo pacman -S gvim
+ 2103  vim
+ 2104  vim --versio
+ 2105  vim --version
+ 2106  --version
+ 2107  clear
+ 2108  vim ~/Downloads/dotr1jnBEeirWBJEBbG4Hg_774f09a039c111e88d9d77a1dc9cd80f_Script_Create_Tables.sql
+ 2109  ^[[200~
+ 2110  vim ~/Downloads/dotr1jnBEeirWBJEBbG4Hg_774f09a039c111e88d9d77a1dc9cd80f_Script_Create_Tables.sql
+ 2111  clear
+ 2112  vim .vimrc
+ 2113  clear
+ 2114  vim ~/Downloads/dotr1jnBEeirWBJEBbG4Hg_774f09a039c111e88d9d77a1dc9cd80f_Script_Create_Tables.sql
+ 2115  ipython
+ 2116  sensors
+ 2117  ipython
+ 2118  clear
+ 2119  syslog
+ 2120  elasticsearch
+ 2121  sudo pacman -S elasticsearch
+ 2122  test
+ 2123  clear
+ 2124  whereis syslog
+ 2125  cle
+ 2126  clear
+ 2127  \tipython
+ 2128  htop
+ 2129  sensors
+ 2130  cd Code/Python
+ 2131  ls
+ 2132  mkdir Tests
+ 2133  cd Tests
+ 2134  vim test.py
+ 2135  clear
+ 2136  vim ~/.vimrc
+ 2137  vim .vimrc
+ 2138  ipython
+ 2139  clear
+ 2140  sudo mount -ntfs /dev/sda5 /mnt
+ 2141  sudo mount -t ntfs /dev/sda5 /mnt
+ 2142  cd mn
+ 2143  cd /mnt
+ 2144  ls
+ 2145  cd Songs
+ 2146  ls
+ 2147  identify друг.wav
+ 2148  identify друг.mp3
+ 2149  identify secrets.mp3
+ 2150  mdls
+ 2151  sudo pacman -S mdls
+ 2152  sudo pacman -S mp3info
+ 2153  mp3indo
+ 2154  mp3info
+ 2155  mp3info secrets.mp3
+ 2156  ./secrets.mp3
+ 2157  sensors
+ 2158  sudo systetmctl disable
+ 2159  sudo systemctl disable
+ 2160  sudo systemctl disable NetworkManager
+ 2161  sudo systemctl stop NetworkManager.service
+ 2162  sudo wifi
+ 2163  sudo wifi-menu
+ 2164  sudo vi
+ 2165  sudo vim /etc/NetworkManager/NetworkManager.conf
+ 2166  clear
+ 2167  ipython
+ 2168  clear
+ 2169  sensors
+ 2170  sseensors
+ 2171  sensors
+ 2172  cd Code/
+ 2173  mkdir Html
+ 2174  cd Html
+ 2175  vim html5.html
+ 2176  clear
+ 2177  vim ~/.vimrc
+ 2178  vim Code/Html/html5.html
+ 2179  vim Code/Python/Tests/test.py 
+ 2180  vim
+ 2181  clear
+ 2182  cd Code/Html
+ 2183  clear
+ 2184  vim html5.html
+ 2185  ls -al
+ 2186  vim html5.html
+ 2187  cd Code/Html
+ 2188  ls
+ 2189  clear
+ 2190  mkdir CodeTogether
+ 2191  cp html5.html CodeTogether
+ 2192  cd CodeTogether
+ 2193  ls
+ 2194  vim style.css
+ 2195  clear
+ 2196  ls
+ 2197  vim html5.html
+ 2198  sensors
+ 2199  clear
+ 2200  cd ..
+ 2201  mkir SecondCode
+ 2202  mkdir SecondCode
+ 2203  cd SecondCode
+ 2204  ls
+ 2205  clear
+ 2206  vim html.html
+ 2207  systemctl stop NetworkManager.service
+ 2208  clear
+ 2209  sudo wifi-menu
+ 2210  systemctl stop NetworkManager.service
+ 2211  sudo wifi-menu
+ 2212  clear
+ 2213  sensors
+ 2214  sudo wifi-menu
+ 2215  clear
+ 2216  sudo systemctl stop NetworkManager.service
+ 2217  sudo wifi-menu
+ 2218  systemctl disable NetworkManager.service
+ 2219  clear
+ 2220  sensors
+ 2221  htop
+ 2222  sensors
+ 2223  htop
+ 2224  sensors
+ 2225  clear
+ 2226  systemctl stop NetworkManager.service
+ 2227  cleaer
+ 2228  sudo wifi-menu
+ 2229  clear
+ 2230  systemctl start NetworkManager
+ 2231  sudo wifi-menu
+ 2232  sudo systemctl stop NetworkManager.service
+ 2233  sudo wifi-menu
+ 2234  clear
+ 2235  sudo ip link set wlp3s0 down
+ 2236  sudo wifi-menu
+ 2237  vim
+ 2238  vim Code/Flask/blog/main.py
+ 2239  vim Code/Flask/blog/app/__init__.py
+ 2240  python -m flask run
+ 2241  flask run
+ 2242  cd Code/Flask/b
+ 2243  cd Code/Flask/blog
+ 2244  clear
+ 2245  ls
+ 2246  source venv/bin/activate
+ 2247  flask run
+ 2248  vim app/routes.py
+ 2249  flask run
+ 2250  clear
+ 2251  vim app/routes.py
+ 2252  flask run
+ 2253  htop
+ 2254  clear
+ 2255  flask run
+ 2256  vim app/routes.py
+ 2257  flask run
+ 2258  clear
+ 2259  vim app/routes.py
+ 2260  sudo wifi-menu
+ 2261  htop
+ 2262  sudo systemctl stop NetworkManager.service
+ 2263  clear
+ 2264  sudo wifi-menu
+ 2265  flask doc
+ 2266  flask docs
+ 2267  flask help
+ 2268  reboot
+ 2269  sudo systemctl stop NetworkManager.service
+ 2270  sudo wifi-menu
+ 2271  cd Code/Flask/blog
+ 2272  source venv/bin/activate
+ 2273  clear
+ 2274  vim app/__init__.py
+ 2275  cd Code/Flask/blog
+ 2276  ls
+ 2277  clear
+ 2278  source venv/bin/activate
+ 2279  cleR
+ 2280  clear
+ 2281  vim app/routes.py
+ 2282  ping 8.8.8.8
+ 2283  sudo systemctl stop NetworkManager.service
+ 2284  clear
+ 2285  sudo wifi-menu
+ 2286  sensors
+ 2287  sudo wifi
+ 2288  sudo wifi-menu
+ 2289  systemctl stop NetworkManager.service
+ 2290  sudo wifi-menu 1
+ 2291  sudo wifi-menu 
+ 2292  ls
+ 2293  clear
+ 2294  cd Code/Python/DownloadFrom/Youtube.com
+ 2295  ls
+ 2296  vim main.py
+ 2297  python main.py
+ 2298  clear
+ 2299  cd ..
+ 2300  ls
+ 2301  cd ..
+ 2302  ls
+ 2303  cd SyncYoutube
+ 2304  ls
+ 2305  vim README.md
+ 2306  cd ..
+ 2307  ls
+ 2308  clear
+ 2309  ls
+ 2310  cd Tests
+ 2311  l
+ 2312  ls
+ 2313  vim test.py
+ 2314  cd ..
+ 2315  ls
+ 2316  cd DownloadFrom
+ 2317  ls
+ 2318  cd Youtube.com
+ 2319  ls
+ 2320  vim main.py
+ 2321  sudo pip install pytube
+ 2322  clear
+ 2323  pip list
+ 2324  deactivate
+ 2325  ls
+ 2326  clear
+ 2327  sudo systemctl stop NetworkManager.service
+ 2328  clear
+ 2329  sudo wifi-menu
+ 2330  sudo systemctl stop NetworkManager.service
+ 2331  clear
+ 2332  vim
+ 2333  cla
+ 2334  vim ~/.config/i3/config
+ 2335  vim
+ 2336  clear
+ 2337  vim ~/.config/i3/config
+ 2338  vim
+ 2339  vim Code/Flask/blog/main.py
+ 2340  vim quickref
+ 2341  vimquickref
+ 2342  vimtutor ru
+ 2343  sudo systemctl stop
+ 2344  sudo systemctl stop N
+ 2345  sudo wifi-menu
+ 2346  sensors
+ 2347  vim ~/.config/i3/config
+ 2348  ыутыщкы
+ 2349  sensors
+ 2350  vim ~/.config/i3/config
+ 2351  ping 8.8.8.8
+ 2352  sudo ip link set enp4s0 up
+ 2353  ping 8.8.8.8
+ 2354  dhcpcd start
+ 2355  sudo dhcpcd start
+ 2356  sudo dhcpcd start enp4s09
+ 2357  sudo dhcpcd start enp4s0
+ 2358  ping 8.8.8.8
+ 2359  sudo systemctl stop NetworkManager.service
+ 2360  ping 8.8.8.8
+ 2361  sudo ip link set wlp3s0 down
+ 2362  clear
+ 2363  ping ya.ru
+ 2364  clear
+ 2365  vim ~/.config/i3/config
+ 2366  sudo wifi-menu
+ 2367  vim
+ 2368  clear
+ 2369  ping ya.ru
+ 2370  reboot
+ 2371  sudo systemctl stop wlp3s0
+ 2372  sudo systemctl stop network.target
+ 2373  sudo systemctl stop NetworkManager.service
+ 2374  clear
+ 2375  sudo wifi-menu
+ 2376  htop
+ 2377  sudo wifi-menu
+ 2378  sudo systemctl stop NetworkManager.service 
+ 2379  sudo wifi-menu
+ 2380  ipython
+ 2381  clear
+ 2382  sudo pip install howdou
+ 2383  sudo pip install howdoi
+ 2384  howdoi 
+ 2385  howdoi print string
+ 2386  howdoi print string python
+ 2387  sudo pacman -S PyInstaller
+ 2388  sudo pacman -S bbFreeze
+ 2389  sudo pip install bbFreeze
+ 2390  bbFreeze
+ 2391  python -m bbFreeze
+ 2392  python -m freeze
+ 2393  python -m bbfreeze
+ 2394  sudo python -m bbfreeze
+ 2395  ipython
+ 2396  clear
+ 2397  cd Code
+ 2398  cd Flask
+ 2399  ls
+ 2400  git pull https://github.com/pallets/flask/blob/master/flask
+ 2401  git pull https://github.com/pallets/flask/
+ 2402  git pull https://github.com/pallets/flask
+ 2403  git clonr https://github.com/pallets/flask
+ 2404  git clone https://github.com/pallets/flask
+ 2405  cd flask
+ 2406  ls
+ 2407  cd flask
+ 2408  ls
+ 2409  vim app.py
+ 2410  cd ..
+ 2411  ls
+ 2412  cd ..
+ 2413  cd blog
+ 2414  ls
+ 2415  cd app
+ 2416  ls
+ 2417  vim routes.py
+ 2418  cd ..
+ 2419  vim main.py
+ 2420  source venv/bin/activate
+ 2421  flask
+ 2422  flask run
+ 2423  python main.py
+ 2424  vim main.py
+ 2425  python main.py
+ 2426  cd ..
+ 2427  cd flask
+ 2428  ls
+ 2429  vim app.py
+ 2430  sudo vim
+ 2431  cd Code/Python
+ 2432  ls
+ 2433  ipython
+ 2434  cd ~/
+ 2435  ls
+ 2436  cd M
+ 2437  cd MY
+ 2438  ;s
+ 2439  ls
+ 2440  cd Projects
+ 2441  ls
+ 2442  cd ..
+ 2443  ls -al
+ 2444  cp ~/.vimrc .
+ 2445  ls
+ 2446  ls -al
+ 2447  git add .
+ 2448  cd .config
+ 2449  ls
+ 2450  cp ~/.config/i3 .
+ 2451  cp -rf ~/.config/i3 .
+ 2452  ls
+ 2453  cd i3
+ 2454  ls
+ 2455  cd ..
+ 2456  ls
+ 2457  cd ..
+ 2458  cd M
+ 2459  cd MY
+ 2460  git add .
+ 2461  git push
+ 2462  git commit -m "Changes in .vimrc and i3 "
+ 2463  cd ..
+ 2464  ls
+ 2465  clear
+ 2466  deactivate
+ 2467  clear
+ 2468  sudo wifi-menu
+ 2469  sudo systemctl stop NetworkManager.service
+ 2470  sudo wifi-menu
+ 2471  sudo systemctl stop NetworkManager.service 
+ 2472  sudo wifi-menu
+ 2473  sensors
+ 2474  vim Code/Flask/blog/main.py
+ 2475  sudo systemctl stop NetworkManager.service
+ 2476  sudo wifi-menu
+ 2477  sudo systemctl stop NetworkManager.service
+ 2478  sudo wifi-menu
+ 2479  sudo systemctl stop NetworkManager.service 
+ 2480  sudo wifi
+ 2481  sudo wifi-menu
+ 2482  sudo systemctl stop NetworkManager.service
+ 2483  sudo wifi-menu
+ 2484  telegram
+ 2485  telegram-desktop 
+ 2486  exit
+ 2487  telegram-desktop 
+ 2488  sudo systemctl stop NetworkManager.service
+ 2489  sudo wifi-menu
+ 2490  sudo chmod +s systemctl
+ 2491  echo 917917
+ 2492  vim ~/.config/i3/config
+ 2493  cd ~/.config
+ 2494  vim pass
+ 2495  vim ~/.config/i3/config
+ 2496  echo pass
+ 2497  pass >> echo
+ 2498  cat pass >> echo
+ 2499  cat pass | echo
+ 2500  cat pass
+ 2501  vim ~/.config/i3/config
+ 2502  netctl stop wlp3s0-ILITALITSEY
+ 2503  echo 917917 | sudo -S netctl stop wlp3s0-ILITALITSEY
+ 2504  echo 917917 | sudo -S netctl start wlp3s0-ILITALITSEY
+ 2505  vim ~/.config/i3/config
+ 2506  netctl stop wlp3s0-ILITALITSEY
+ 2507  vim ~/.config/i3/config
+ 2508  sensors
+ 2509  cd Code/aseprite/build/bin/
+ 2510  sl
+ 2511  ls
+ 2512  ./aseprite
+ 2513  sensors
+ 2514  ./aseprite
+ 2515  sensors
+ 2516  ls
+ 2517  cd Pictures
+ 2518  ls
+ 2519  mkdir PixelArt
+ 2520  cd PixelArt
+ 2521  mkdir House
+ 2522  cd House
+ 2523  cd Code/aseprite/build/bin
+ 2524  ls
+ 2525  ./aseprite
+ 2526  sudo pacman -Syu 
+ 2527  cd Code/Python/
+ 2528  mkdir Olymp
+ 2529  cd Olymp
+ 2530  vim Mkad.py
+ 2531  ipython
+ 2532  vim Mkad.py
+ 2533  python Mkad.py
+ 2534  vim Mkad.py
+ 2535  python Mkad.py
+ 2536  vim Mkad.py
+ 2537  python Mkad.py
+ 2538  vim Mkad.py
+ 2539  python Mkad.py
+ 2540  vim Mkad.py
+ 2541  python Mkad.py
+ 2542  vim Mkad.py
+ 2543  python Mkad.py
+ 2544  vim Mkad.py
+ 2545  ipython
+ 2546  vim Mkad.py
+ 2547  ipython
+ 2548  clear
+ 2549  python Mkad.py
+ 2550  vim Mkad.py
+ 2551  python Mkad.py
+ 2552  vim Mkad.py
+ 2553  python Mkad.py
+ 2554  vim Mkad.py
+ 2555  python Mkad.py
+ 2556  sudo pacman -Syu
+ 2557  sensors
+ 2558  yaourt -Syua
+ 2559  sudo wifi-menu
+ 2560  vim ~/.config/i3/config
+ 2561  netctl-auto disable wlp3s0-ILITALITSEY
+ 2562  netctl-auto enable wlp3s0-ILITALITSEY
+ 2563  sudo netctl-auto enable-all
+ 2564  sudo netctl-auto enable wlp3s0-ILITALITSEY
+ 2565  clear
+ 2566  vim
+ 2567  clear
+ 2568  vim
+ 2569  clear
+ 2570  vim ~/.config/i3/config
+ 2571  netctl list
+ 2572  sudo netctl start wlp3s0-ILITALITSEY
+ 2573  sudo netctl stop wlp3s0-Innopolis
+ 2574  sudo netctl start wlp3s0-ILITALITSEY
+ 2575  netctl list
+ 2576  clear
+ 2577  rebooy
+ 2578  reboot
+ 2579  vim ~/.config/i3/config
+ 2580  reboot
+ 2581  vim ~/.config/i3/config
+ 2582  reboot
+ 2583  ls
+ 2584  cd ~/.config/i3
+ 2585  ls
+ 2586  clear
+ 2587  vim wifi.py
+ 2588  sudo pacman -S docker
+ 2589  clear
+ 2590  ipython
+ 2591  sudo pacman -S ipython
+ 2592  ipython
+ 2593  sudo pip install ipython
+ 2594  clear
+ 2595  ipython
+ 2596  clear
+ 2597  ipython
+ 2598  clear
+ 2599  vim ~/Code/MY/Projects/ImageChanger/image_changer.py
+ 2600  clear
+ 2601  vim wifi.py wifi.py
+ 2602  clear
+ 2603  netctl list >> interfaces
+ 2604  cat interfaces
+ 2605  vim wifi.py 
+ 2606  sudo pacman -S docker
+ 2607  sudo apt-get install asjlkdfjasdlkfjas
+ 2608  yaourt -S 
+ 2609  yaourt -S code
+ 2610  sudo wifi-menu
+ 2611  sensors
+ 2612  clear
+ 2613  cd ~/Code/Python
+ 2614  ls
+ 2615  mkdir Tinkoff
+ 2616  cd Tinkoff
+ 2617  cp ~/Downloads/operations\ Fri\ Aug\ 18\ 18_18_04\ MSK\ 2017-Tue\ Aug\ 21\ 18_42_40\ MSK\ 2018.csv .
+ 2618  ls
+ 2619  mv operations\ Fri\ Aug\ 18\ 18_18_04\ MSK\ 2017-Tue\ Aug\ 21\ 18_42_40\ MSK\ 2018.csv data.csv
+ 2620  clear
+ 2621  ls
+ 2622  clear
+ 2623  ipython
+ 2624  ls
+ 2625  clear
+ 2626  ipython
+ 2627  sudo wifi-menu
+ 2628  sudo link set wlp3s0 down
+ 2629  sudo ip link set wlp3s0 down
+ 2630  sudo wifi-menu
+ 2631  vim ~/.config/i3/wifi.py
+ 2632  cd .config/i3
+ 2633  python wifi.py 
+ 2634  vim ~/.config/i3/wifi.py
+ 2635  python wifi.py 
+ 2636  vim ~/.config/i3/wifi.py
+ 2637  python wifi.py 
+ 2638  vim ~/.config/i3/wifi.py
+ 2639  python wifi.py 
+ 2640  vim ~/.config/i3/wifi.py
+ 2641  python wifi.py 
+ 2642  vim ~/.config/i3/wifi.py
+ 2643  ls
+ 2644  python wifi.py 
+ 2645  ipython
+ 2646  clear
+ 2647  vim ~/.config/i3/wifi.py
+ 2648  python wifi.py 
+ 2649  ls
+ 2650  vim ~/.config/i3/wifi.py
+ 2651  python wifi.py 
+ 2652  vim ~/.config/i3/wifi.py
+ 2653  vim config
+ 2654  sudo wifi-menu
+ 2655  sudo ip link set wlp3s0 down
+ 2656  sudo wifi-menu
+ 2657  sudo systemctl stop NetworkManager.service
+ 2658  sudo wifi-menu
+ 2659  clear
+ 2660  docker
+ 2661  clear
+ 2662  sudo wifi-menu
+ 2663  sudo netctl stop-all
+ 2664  sudo netctl start wlp3s0-Innopolis
+ 2665  cd .config/i3
+ 2666  ls
+ 2667  vim interfaces
+ 2668  vim wifi.py 
+ 2669  docker run --rm -it -v ~/Code/Shit
+ 2670  docker run --rm -it -v ~/Code/Shit:/tmp gcc bash
+ 2671  docker run --help
+ 2672  ls
+ 2673  cd Code/Shit
+ 2674  ls
+ 2675  mkdir TryDocker
+ 2676  docker run --rm -it -v ~/Code/TryDocker:/tmp gcc bash
+ 2677  sudo docker run --rm -it -v ~/Code/TryDocker:/tmp gcc bash
+ 2678  docker run --rm -it -v /home/ngm/Code/TryDocker:/tmp gcc bash
+ 2679  sudo docker run --rm -it -v /home/ngm/Code/TryDocker:/tmp gcc bash
+ 2680  sudo groupadd docker
+ 2681  sudo usermod -aG docker $(whoami)
+ 2682  sudo service docker start
+ 2683  sudo pacman -S service
+ 2684  sudo service docker
+ 2685  clear
+ 2686  sudo docker run --rm -it -v /home/ngm/Code/TryDocker:/tmp gcc bash
+ 2687  docker run hello-world
+ 2688  sudo pacman -Rsn docker
+ 2689  sudo pacman -S docker
+ 2690  clear
+ 2691  docker
+ 2692  sudo docker run --rm -it -v /home/ngm/Code/TryDocker:/tmp gcc bash
+ 2693  docker run --rm -it -v /home/ngm/Code/TryDocker:/tmp gcc bash
+ 2694  \tsystemctl status docker
+ 2695  systemctl start docker.s
+ 2696  systemctl start docker.service
+ 2697  docker run --rm -it -v /home/ngm/Code/TryDocker:/tmp gcc bash
+ 2698* vim
+ 2699  clear
+ 2700  ls
+ 2701  mkdir Code/University/Os
+ 2702  mkdir -f Code/University/Os
+ 2703  ls
+ 2704  mkdir Code/University
+ 2705  mkdir -f Code/University/Os
+ 2706  mkdir Code/University/Os
+ 2707  cd Code/University/Os
+ 2708  mkdir week1
+ 2709  cd week1
+ 2710  clear
+ 2711  find
+ 2712  find *gcc*
+ 2713  touch /  *gcc*
+ 2714  touch /usr/bin *gcc*
+ 2715  find /usr/bin *gcc*
+ 2716  find /usr/bin gc
+ 2717  find /usr/bin gcc
+ 2718  man find
+ 2719  touch
+ 2720  man touch
+ 2721  clear
+ 2722  find
+ 2723  man find
+ 2724  find /usr/bin -name "*gcc*"
+ 2725  find /usr/bin -name "*gcc*" >> ex1.txt
+ 2726  ls
+ 2727  cat ex1.txt
+ 2728  find /usr/bin -name "*gcc*" | sort -r >> ex1.txt
+ 2729  cat ex1.txt
+ 2730  ls
+ 2731  clear
+ 2732  vim
+ 2733  man history
+ 2734  history
+ 2735  history(10)
+ 2736  history 10
+ 2737  history -n 10
+ 2738  history help
+ 2739  history --help
+ 2740  history --h
+ 2741  history -h
+ 2742  clear
