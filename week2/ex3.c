@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-int main() 
+int main(int argc, char* argv[]) 
 {
     int n;
-    scanf("%d", &n);
-
+    sscanf(argv[1], "%d", &n);
     int line_length = n * 2 - 1;
 
     for (; n > 0; n--)
