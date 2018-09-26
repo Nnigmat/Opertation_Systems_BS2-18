@@ -23,8 +23,8 @@ void main()
         write(fd[1], &id2, sizeof(id2));
         printf("Parent writes second process pid\n");
         printf("Parent waits for state changes in second child\n");
-        waitpid(id2, &status, 0);
-        printf("%d", status);
+        waitpid(id2, &status, WUNTRACED);
+        printf("Parent gets changes in second child\n");
         exit(0);
     }
     else if (id1 == 0)
