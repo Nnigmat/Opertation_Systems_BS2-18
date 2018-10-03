@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2832	    656	      8	   3496	    da8	../week6/a.out
