@@ -1,0 +1,6 @@
+Physcial address - it is real address where data placed either in primary or second memory.
+Virtual address - it is address of data, but it with high probability won't be at this address. We need to add or subtruct offset from it to get real data.
+
+We need virtual address for :
+1. Remove problems with little memory size
+2. Avoid collisions between two programs which wants to get access to the same address
