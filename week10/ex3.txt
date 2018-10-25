@@ -1,0 +1,7 @@
+chmod a-x _ex3.txt
+chmod uo+rwx _ex3.txt
+chmod g=u _ex3.txt
+
+chmod 660 _ex3.txt - Owner and group can read and write
+chmod 775 _ex3.txt - Owner and group can read, write and execute, and other can read
+chmod 777 _ex3.txt - All users and groups can do read, write and execution
