@@ -1,0 +1,21 @@
+initial
+./a.out ex1.txt test.c  0,00s user 0,00s system 86% cpu 0,003 total
+
+100
+./a.out ex1.txt test.c  0,00s user 0,00s system 84% cpu 0,003 total
+
+10
+./a.out ex1.txt test.c  0,00s user 0,00s system 80% cpu 0,002 total
+
+modified initial
+./a.out ex1.txt test.c  0,00s user 0,00s system 83% cpu 0,003 total
+
+modified 100
+./a.out ex1.txt test.c  0,00s user 0,00s system 84% cpu 0,003 total
+
+modified 10
+./a.out ex1.txt test.c  0,00s user 0,00s system 83% cpu 0,002 total
+
+
+For default buffer size syncronized coping works better but for bigger sizes it
+deacreases its effectivness
